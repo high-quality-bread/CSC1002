@@ -6,7 +6,7 @@ This game use the logic that divides the screen into 64 location to judge the ba
 The logic like this:
 
 screen
-_________________________________
+__________________________________
 |                                |
 | 8  16  24  32  40  48  56  64  |
 | 7  15  23  31  39  47  55  63  |
