@@ -651,7 +651,7 @@ def onTimerMonster():
         g_contact_time += 1
     
     g_screen.update()
-    g_screen.ontimer(onTimerMonster, random.randint(300, 500))
+    g_screen.ontimer(onTimerMonster, random.randint(300, 600))
 
 
 def startGame(x, y):
