@@ -1,7 +1,7 @@
 """
 This is a snake game written in python.
 
-Created by 122090644
+Created by xxx
 """
 import turtle
 import random
